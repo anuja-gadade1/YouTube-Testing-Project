@@ -60,9 +60,12 @@
 
 ---
 
-<p align="center">
-  If you'd like to connect with me or learn more about my work, visit my profiles:
-</p>
+## :busts_in_silhouette: Connect with Me
 
-GitHub: Your GitHub Profile
-LinkedIn: Your LinkedIn Profile
+If you'd like to learn more about me or get in touch, feel free to visit my profiles:
+
+- **GitHub:** [anuja-gadade1
+](https://github.com/anuja-gadade1)
+- **LinkedIn:** [Anuja Gadade](www.linkedin.com/in/anuja-gadade-4a7874280)
+
+Let's connect and discuss all things tech and testing!
